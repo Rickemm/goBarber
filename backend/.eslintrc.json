@@ -20,6 +20,8 @@
     ],
     "rules": {
       "class-methods-use-this": "off",
+      "@typescript-eslint/camelcase": "off",
+      "camelcase": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
